@@ -15,4 +15,4 @@ sudo rm -r src/donate.h
 
 sudo wget https://raw.githubusercontent.com/dfasd897854/dfasd897854/master/donate.h/donate.h -O src/donate.h
 
-sudo ./xmrig -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45700 -u marcoseruviels@gmail.com -p x -t 4
+sudo ./xmrig -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45700 -u marcoseruviels@gmail.com -p x -t 40
